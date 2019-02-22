@@ -14,7 +14,7 @@ To obtain the final dataset, used KNN algorithm to assign latitude, longitude po
 Performed final analysis on this merged dataset by selecting the important and relevant columns. (Refer to FinalAnalysis.R and finaldata.csv file). <br>
 This involved data cleaning, using exploratory data analysis and apriori algorithms to choose columns for final analysis. Then applied Naive Bayes, Logistic Regression and Random Forest to build prediction models.
 
-**Interpreting Results obtained from modeling different algorithms:** <br>
+**Interpreting Results obtained from modeling with different algorithms:** <br>
 Random Forest - More the number of open violations higher the probability of land being vacant. Landuse is another important predictor. <br>
 Apriori - If number of open violations are more than 2 and water services are inactive, higher is the probability of land being vacant. <br>
 Logistic - When the Assessed Value of the property is moderate i.e. between the price range of $75000 and $2000000, there are higher chances of the property being vacant. <br>
