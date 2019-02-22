@@ -1,4 +1,5 @@
 **Objective:** To predict vacant houses in Syracuse
+<br>Refer to the file 'Final PPT' to gain an overview of the data analysis of the project. <br>
 
 **Data:** Collected data mainly from three sources:
   1. Syracuse Crime Data (2017) - [Type of Data: Block Level Data] (Refer to nygeo2010.7z)
